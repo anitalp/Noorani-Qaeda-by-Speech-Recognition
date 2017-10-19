@@ -2,6 +2,19 @@
 This project basically is an attempt to learn Noorani Qaeda using Deep learning. Currently we are using this CNN for audio classification.
 https://github.com/drscotthawley/audio-classifier-keras-cnn
 
+# Dependencies
+We are currently using python 3 to setup this project. Other libraries included are :
+1) numpy
+2) librosa
+3) shutil
+4) os
+5) keras
+6) pyaudio
+7) wave
+8) requests
+9) time
+10) json
+
 # Dataset
 We have a dataset of 3080 audios belonging to 28 classes. Classes included are given below.
 
@@ -30,6 +43,9 @@ Some results are :
 
 # Results
 Currently it is not fully trained. But ar present it is giving 87% accuracy on validation data.
+
+# How to use Current Trained Model
+Put your .wav files in Samples folder and then run the test_network.py script.
 
 # Future Work
 We are at present working on getting some more real world data rather than generate artificial data. Once we achieve a high accuracy on this, we are aiming to cover the whole noorani qaeda and then maybe the shorh duas as well.
