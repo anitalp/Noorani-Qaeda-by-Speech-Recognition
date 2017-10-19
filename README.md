@@ -18,4 +18,8 @@ We did 2 types of prerocessing:
 We achieved this task by using SOX library.
 https://github.com/rabitt/pysox
 
-Some results are shown below.
+Some results are :
+
+![Before Removing Noise](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/before_removing_noise.png)
+
+![After Removing Noise](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/after_removing_noise.png)
