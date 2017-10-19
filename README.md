@@ -21,6 +21,15 @@ https://github.com/rabitt/pysox
 Some results are :
 
 ![Before Removing Noise](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/before_removing_noise.png)
+
 ![After Removing Noise](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/after_removing_noise.png)
+
 ![Before Removing Silence](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/before_removing_silence.png)
+
 ![After Removing Silence](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/after_removing_silence.png)
+
+# Results
+Currently it is not fully trained. But ar present it is giving 87% accuracy on validation data.
+
+# Future Work
+We are at present working on getting some more real world data rather than generate artificial data. Once we achieve a high accuracy on this, we are aiming to cover the whole noorani qaeda and then maybe the shorh duas as well.
