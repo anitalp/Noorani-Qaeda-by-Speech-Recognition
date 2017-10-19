@@ -21,5 +21,6 @@ https://github.com/rabitt/pysox
 Some results are :
 
 ![Before Removing Noise](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/before_removing_noise.png)
-
 ![After Removing Noise](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/after_removing_noise.png)
+![Before Removing Silence](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/before_removing_silence.png)
+![After Removing Silence](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/after_removing_silence.png)
