@@ -33,13 +33,13 @@ https://github.com/rabitt/pysox
 
 Some results are :
 
-![Before Removing Noise](edit/master/plots/before_removing_noise.png)
+![Before Removing Noise](plots/before_removing_noise.png)
 
-![After Removing Noise](edit/master/plots/after_removing_noise.png)
+![After Removing Noise](plots/after_removing_noise.png)
 
-![Before Removing Silence](edit/master/plots/before_removing_silence.png)
+![Before Removing Silence](plots/before_removing_silence.png)
 
-![After Removing Silence](edit/master/plots/after_removing_silence.png)
+![After Removing Silence](plots/after_removing_silence.png)
 
 # Results
 At present it is giving 87% accuracy on validation data.
