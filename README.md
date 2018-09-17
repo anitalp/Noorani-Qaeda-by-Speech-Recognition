@@ -33,16 +33,16 @@ https://github.com/rabitt/pysox
 
 Some results are :
 
-![Before Removing Noise](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/before_removing_noise.png)
+![Before Removing Noise](edit/master/plots/before_removing_noise.png)
 
-![After Removing Noise](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/after_removing_noise.png)
+![After Removing Noise](edit/master/plots/after_removing_noise.png)
 
-![Before Removing Silence](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/before_removing_silence.png)
+![Before Removing Silence](edit/master/plots/before_removing_silence.png)
 
-![After Removing Silence](https://github.com/asad1996172/Noorani-Qaeda-by-Speech-Recognition/edit/master/plots/after_removing_silence.png)
+![After Removing Silence](edit/master/plots/after_removing_silence.png)
 
 # Results
-Currently it is not fully trained. But ar present it is giving 87% accuracy on validation data.
+At present it is giving 87% accuracy on validation data.
 
 # How to use Current Trained Model
 Put your .wav files in Samples folder and then run the test_network.py script.
